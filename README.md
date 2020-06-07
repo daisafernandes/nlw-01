@@ -1,4 +1,5 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/62728109/83677850-2cf1e200-a5b3-11ea-8d04-f91369115c62.png"/><p>
+<p align="center"><img src='./web/src/assets/ecoleta01.png' width="250px" /><p>
+ <p align="center"><img src='./web/src/assets/nlw.png' width="250px" /><p>
 
 <div align="center">
   <a href="https://pt-br.reactjs.org/"><img src="https://img.shields.io/static/v1?label=&labelColor=blue&message=React&color=gray&style=flat-square&logo=REACT&logoColor=white" /></a>
