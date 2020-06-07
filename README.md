@@ -9,32 +9,21 @@
   <a href="https://www.sqlite.org/index.html"><img src="https://img.shields.io/static/v1?label=&labelColor=red&message=SQLite3&color=gray&style=flat-square&logo=SQLITE" /></a>
 </div>
 
-## :recycle: Projeto
+## :computer: Projeto
 
-O Ecoleta é uma aplicação Web/Mobile que permite o cadastro de pontos de coleta de resíduos, e por meio desses cadastros torna
-possivel usuários encontrarem esses pontos de coleta baseando-se na sua localização. Foi utilizado **React** para construção da aplicação
-web, **React Native** para construção da aplicação mobile, banco de dados **SQLite** e o **NodeJS** para o back-end. O Ecoleta foi construído durante o evento
-da Next Level Week 1.0 que ocorreu de 01/06/2020 á 05/06/2020, o evento foi promovido pela
+O Ecoleta é um app Web/Mobile que permite o cadastro e listagem de pontos de coleta de resíduos, e por meio destes se torna
+possivel usuários encontrarem esses pontos de coleta baseando-se na sua localização. Foi utilizado **React** para construção do app web, **React Native** para o app mobile, **NodeJS** para o back-end com banco de dados **SQLite**. O sistema foi feito durante o evento da Next Level Week 1.0 promovido pela
 **[Rocketseat](https://youtube.com/rocketseat)**
 
-## :clipboard: Funcionalidades
-- :white_check_mark: Criar pontos de coleta.
+## :rocket: "Mãos na massa"
+Para rodar as aplicações você precisrá ter instalado em seu computador o [NodeJS](https://nodejs.org/en/).
 
-- :white_check_mark: Cadastrar foto para cada ponto de coleta.
-
-- :white_check_mark: Mostrar os pontos de coleta no mapa.
-
-- :white_check_mark: Filtrar os pontos de coleta no mapa baseando-se por um tipo de resíduo.
-
-- :white_check_mark: Mostrar os detalhes sobre cada ponto de coleta.
-
-## :computer: Como testar a aplicação?
-Para realizar o teste da aplicação **WEB** e **MOBILE** você irá precisar ter instalado em seu computador o [NodeJS](https://nodejs.org/en/).
-
-. Com prompt de comando localizado dentro da pasta da aplicação basta executar:
+. Dentro da pasta do projeto execute:
 ```bash
   npm install
 ```
+
+
 **OBS: Esse comando deve ser executado dentro de cada pasta do projeto: Web, Mobile e Server**.
 
 . Com um prompt de comando diferente para cada pasta basta executar o seguinte comando dentro de cada terminal:
