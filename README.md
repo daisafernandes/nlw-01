@@ -23,13 +23,13 @@ Para rodar as aplicações você precisrá ter instalado em seu computador o [No
   npm install
 ```
 
-**Para rodar o projeto server execute dentro da pasta
+**Para rodar o projeto server execute dentro da pasta**
 ```bash
   npm run dev
 ```
-**Para rodar os projetos WEB ou MOBILE execute dentro da pasta de cada projeto
+**Para rodar os projetos WEB ou MOBILE execute dentro da pasta de cada projeto**
 ```bash
   npm start
 ```
-**Para testar o app Mobile, necessário ter instaladao em ceu smartphone o app chamado [Expo](https://expo.io/) (Android e iOS)
+**Para testar o app Mobile, necessário ter instaladao em ceu smartphone o app chamado [Expo](https://expo.io/) (Android e iOS)**
 . Para iniciar clique em **Scan QR Code** e scaneie o **QR code** com a camera do celular que ele irá abrir o app do expo e o app do Ecoleta.
