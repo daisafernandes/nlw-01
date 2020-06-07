@@ -23,7 +23,7 @@ Para rodar as aplicações você precisrá ter instalado em seu computador o [No
   npm install
 ```
 
-**Para rodar o projeto server execute dentro da pasta**
+**Para rodar o projeto SERVER execute dentro da pasta**
 ```bash
   npm run dev
 ```
