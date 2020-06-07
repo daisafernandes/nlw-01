@@ -14,8 +14,7 @@ O Ecoleta é uma aplicação Web/Mobile que permite o cadastro de pontos de cole
 possivel usuários encontrarem esses pontos de coleta baseando-se na sua localização. Foi utilizado **React** para construção da aplicação
 web, **React Native** para construção da aplicação mobile, banco de dados **SQLite** e o **NodeJS** para o back-end. O Ecoleta foi construído durante o evento
 da Next Level Week 1.0 que ocorreu de 01/06/2020 á 05/06/2020, o evento foi promovido pela
-**[Rocketseat](https://youtube.com/rocketseat)** e teve as aulas ministradas pelo ***[Diego Fernandes](https://github.com/diego3g)***
-na sua versão **Booster** e pelo ***[Mayk Brito](https://github.com/maykbrito)*** na versão **Starter**.
+**[Rocketseat](https://youtube.com/rocketseat)**
 
 ## :clipboard: Funcionalidades
 - :white_check_mark: Criar pontos de coleta.
@@ -31,13 +30,13 @@ na sua versão **Booster** e pelo ***[Mayk Brito](https://github.com/maykbrito)*
 ## :computer: Como testar a aplicação?
 Para realizar o teste da aplicação **WEB** e **MOBILE** você irá precisar ter instalado em seu computador o [NodeJS](https://nodejs.org/en/).
 
-1. Com prompt de comando localizado dentro da pasta da aplicação basta executar:
+. Com prompt de comando localizado dentro da pasta da aplicação basta executar:
 ```bash
   npm install
 ```
 **OBS: Esse comando deve ser executado dentro de cada pasta do projeto: Web, Mobile e Server**.
 
-2. Com um prompt de comando diferente para cada pasta basta executar o seguinte comando dentro de cada terminal:
+. Com um prompt de comando diferente para cada pasta basta executar o seguinte comando dentro de cada terminal:
 ```bash
   npm start
 ```
