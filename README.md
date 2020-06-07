@@ -1,4 +1,4 @@
-<p align="center"><img src="hhttps://raw.githubusercontent.com/daisafernandes/nlw-01/b437c3c3b677ed632144dd328e96c496a73b002e/web/src/assets/logo.svg"/><p>
+<p align="center"><img src="https://user-images.githubusercontent.com/62728109/83677850-2cf1e200-a5b3-11ea-8d04-f91369115c62.png"/><p>
 
 <div align="center">
   <a href="https://pt-br.reactjs.org/"><img src="https://img.shields.io/static/v1?label=&labelColor=blue&message=React&color=gray&style=flat-square&logo=REACT&logoColor=white" /></a>
