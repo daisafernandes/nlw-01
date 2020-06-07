@@ -23,15 +23,13 @@ Para rodar as aplicações você precisrá ter instalado em seu computador o [No
   npm install
 ```
 
-
-**OBS: Esse comando deve ser executado dentro de cada pasta do projeto: Web, Mobile e Server**.
-
-. Com um prompt de comando diferente para cada pasta basta executar o seguinte comando dentro de cada terminal:
+**Para rodar o projeto server execute dentro da pasta
+```bash
+  npm run dev
+```
+**Para rodar os projetos WEB ou MOBILE execute dentro da pasta de cada projeto
 ```bash
   npm start
 ```
-**OBS: Quando você executar o comando em cada um dos terminais será aberta duas abas no seu navegado uma delas é da aplicação WEB e a outra é referente a apicação MOBILE.**
-
-. Para testar a aplicação **MOBILE** você irá precisar instalar um aplicativo chamado [Expo](https://expo.io/) ele está desponível para Android e IOS.
-
-. Com o aplicativo do [Expo](https://expo.io/) instalado em seu celular basta iniciar ele e clicar em **Scan QR Code** e apontar a câmera do seu celular para o **QR code** que irá ser gerado na aba do expo no seu navegador.
+**Para testar o app Mobile, necessário ter instaladao em ceu smartphone o app chamado [Expo](https://expo.io/) (Android e iOS)
+. Para iniciar clique em **Scan QR Code** e scaneie o **QR code** com a camera do celular que ele irá abrir o app do expo e o app do Ecoleta.
